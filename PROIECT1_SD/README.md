@@ -1,5 +1,3 @@
-# Proiect 1 SD laborator
+#Sorting Algorithms speed comparison in C++
 
 
-Compararea algoritmilor de sortare
-Realizat in c++
