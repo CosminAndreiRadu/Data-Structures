@@ -1,5 +1,5 @@
-PairingHeap de minim
+Min PairingHeap
 
-insert, build/heapify, merge, delete min
+Can do following: insert, build/heapify, merge, delete min
 
-testate pe infoarena, problema mergeheap, unde am folosit heap de maxim pentru a acoperi cerinta cu delete max
+Tested on infoarena MergeHeap problem, where i had to use a max heap in order to cover the Delete Max task;
